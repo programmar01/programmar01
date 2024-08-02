@@ -37,8 +37,6 @@
 | Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> |
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/03f1a853-1a9b-40c9-b6cc-96723de558b1)
-![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/763094e8-faff-4681-a786-59e36f442ac2)
-![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/03f1a853-1a9b-40c9-b6cc-96723de558b1)
 
 
 ![Snake animation](https://raw.githubusercontent.com/programmar01/programmar01/output/github-contribution-grid-snake-dark.svg)
