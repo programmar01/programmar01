@@ -41,7 +41,7 @@
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/03f1a853-1a9b-40c9-b6cc-96723de558b1)
 
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/programmar01/output/github-contribution-grid-snake-dark.svg) -->
+![Snake animation](https://raw.githubusercontent.com/programmar01/programmar01/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
