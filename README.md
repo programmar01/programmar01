@@ -15,8 +15,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=programmar01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmar01&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/03f1a853-1a9b-40c9-b6cc-96723de558b1)
