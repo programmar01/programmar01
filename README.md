@@ -3,7 +3,7 @@
 [@programmar01](https://github.com/programmar01)
 
 🧑‍💻 I'm web developer with a passion for creating responsive and user-friendly websites</br>
-🧑‍🎓 Study web development at [Goal-Oriented-Academy](https://www.facebook.com/nika11keshelava)<br/>
+🧑‍🎓 Studyes web development
 💭 Currently learning REACT<br/>
 
 
