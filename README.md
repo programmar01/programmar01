@@ -3,7 +3,7 @@
 [@programmar01](https://github.com/programmar01)
 
 🧑‍💻 I'm web developer with a passion for creating responsive and user-friendly websites</br>
-🧑‍🎓 Studyes web development
+🧑‍🎓 Studyes web development<br/>
 💭 Currently learning REACT<br/>
 
 
