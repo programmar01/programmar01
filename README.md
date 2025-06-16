@@ -9,7 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmar01&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="tezeladata" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmar01&show_icons=true&theme=radical)
+![programmar01's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmar01&show_icons=true&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmar01&label=Profile%20views&color=0e75b6&style=flat" alt="programmar01" /> </p>
 
@@ -39,7 +39,7 @@
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/programmar01/programmar01/output/github-contribution-grid-snake-dark.svg) -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100073901881415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mate Dolidze" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dolidze.mate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dolidze.mate" height="30" width="40" /></a>
